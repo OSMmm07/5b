@@ -1,4 +1,4 @@
 print("vvce")
 print("hello")
-print("vvce")
+print("omkar")
 print("Nikhil")
